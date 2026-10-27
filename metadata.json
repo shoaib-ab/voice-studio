@@ -1,0 +1,6 @@
+{
+  "name": "VoiceStudio",
+  "description": "Open-source voice cloning, voice design, video dubbing, dictation, transcription, and audiobook creation in 646 languages.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
